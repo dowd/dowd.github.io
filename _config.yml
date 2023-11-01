@@ -1,1 +1,25 @@
-theme: jekyll-theme-tactile
+# Site settings
+title: Dowd.in
+email: dave@dowd.in
+description: Technical services
+baseurl: "/web" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Identity
+your-name: Dave Dowding
+your-title: Technical Services
+
+# Social settings
+500px_url:
+facebook_url: https://facebook.com
+github_url: https://github.com/dowd
+gitlab_url: https://gitlab.com/u/dowd
+googleplus_url: 
+instagram_url: https://instagram.com/dowd.in
+linkedin_url: https://www.linkedin.com/in/davedowding/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/dowd
+
+# Build settings
+markdown: kramdown
